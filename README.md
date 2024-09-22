@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![github readme stats](https://github-readme-stats.vercel.app/api?username=nilsiker&theme=gruvbox)
 <!--
 **nilsiker/nilsiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
